@@ -7,4 +7,4 @@ def main(a,b):
     Returns:
         bool: answer
     """
-    return (a+1)%2 or (b%2)
+    return (a+1)%2 or (b+1)%2
