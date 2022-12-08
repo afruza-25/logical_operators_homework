@@ -7,4 +7,5 @@ def main(a,b):
     Returns:
         bool: answer
     """
-    return
+    return (a+1)%2 and (b+1)%2
+print(main(3,4))
